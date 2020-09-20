@@ -3,4 +3,4 @@
 ## Connect with me!  <img align="left" alt="Katarina-Please" width="64px" src="https://gbf.wiki/images/e/e5/Stamp97.png"/> <img align="center" alt="Gran-Thanks" width="64px" src="https://gbf.wiki/images/0/0b/Stamp9.png"/>
 <a href="https://www.linkedin.com/in/muhammad-faza-2001/"><img align="center" alt="Linkedin" width="256px" src="http://clipart-library.com/image_gallery2/Linkedin-Free-PNG-Image.png"><a/>
 ## 
-<img align="center" alt="Jahy-Hello" width="64px" src="../img/jahy-nice-to-meet-you.jpg"/>
+<img src="./img/jahy-nice-to-meet-you.jpg"/>
