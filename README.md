@@ -1,6 +1,19 @@
-# Hi There! <img align="center" alt="Yuel-Hello" width="64px" src="https://gbf.wiki/images/6/64/Stamp108.png"/> <img align="left" alt="Vyrn-Heyo" width="64px" src="https://gbf.wiki/images/9/9f/Stamp110.png"/>
-### I'm Faza, a totally common software engineer student, currently interested in web development.
-# Connect with me!  <img align="left" alt="Katarina-Please" width="64px" src="https://gbf.wiki/images/e/e5/Stamp97.png"/> <img align="center" alt="Gran-Thanks" width="64px" src="https://gbf.wiki/images/0/0b/Stamp9.png"/>
-<a href="https://www.linkedin.com/in/muhammad-faza-2001/" target="_blank" ><img alt="Linkedin" width="180px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"><a/>
+<h2 align="center"><img align="center" alt="Yuel-Hello" width="64px" src="https://gbf.wiki/images/6/64/Stamp108.png"/><span> Hi There! </span><img align="center" alt="Vyrn-Heyo" width="64px" src="https://gbf.wiki/images/9/9f/Stamp110.png"/></h2>
+<p align="center">I'm Faza, a totally common software engineer student, currently interested in web development.</p>
+<p align="center">Connect with me: <a href="https://www.linkedin.com/in/muhammad-faza-2001/">Linkedin</a></p>
+<p align="center">Ask me a question: <a href="mailto:fazailman992@gmail.com">fazailman992@gmail.com</a></p>
+
+```javascript
+const aboutMe = {
+    alias: 'Blek',
+    languages_used: [ JavaScript, HTML, CSS, C, Java ],
+    tools_used: [ NodeJS, ReactJS, GCP ],
+    studies: {
+        place: 'Politeknik Negeri Bandung',
+        field: 'Informatics'
+    }
+}
+```
 #
-<img width="400px" src="./img/jahy-nice-to-meet-you.jpg"/>
+
+<div align="center"><img align="center" width="400px" src="./img/jahy-nice-to-meet-you.jpg"/></div>
