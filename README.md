@@ -6,8 +6,8 @@
 ```javascript
 const aboutMe = {
     alias: 'Blek',
-    languages_used: [ JavaScript, HTML, CSS, C, Java ],
-    tools_used: [ NodeJS, ReactJS, GCP ],
+    languages_used: [ TypeScript, JavaScript, HTML, CSS, C, Java ],
+    tools_used: [ NodeJS, ExpressJS, ReactJS, VueJS, GCP ],
     studies: {
         place: 'Politeknik Negeri Bandung',
         field: 'Informatics'
