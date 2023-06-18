@@ -14,10 +14,6 @@ const aboutMe = {
     }
 }
 ```
-<p align=center>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=blekkk&theme=dark&include_all_commits=true&count_private=true"/>
-</p>
-
 #
 
 <div align="center"><img align="center" width="400px" src="./img/jahy-nice-to-meet-you.jpg"/></div>
