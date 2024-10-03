@@ -8,13 +8,13 @@ const aboutMe = {
     alias: 'Blek',
     languages_used: [ TypeScript, JavaScript, HTML, CSS, C, Java, Python ],
     tools_used: [ NodeJS, ExpressJS, ReactJS, VueJS, GCP, Pytorch, Linux ],
-    studies: {
+    education: {
         place: 'Politeknik Negeri Bandung',
         field: 'Informatics'
     },
-    work: {
-        place: 'PT Len Industri (Persero)',
-        role: 'DevOps and Data Science'
+    workplace: {
+        place: 'PT Len IOT',
+        role: 'DevOps and AI Engineer'
     }
 }
 ```
